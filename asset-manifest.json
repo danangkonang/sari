@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sari/static/css/main.d1b05096.chunk.css",
-    "main.js": "/sari/static/js/main.2df20807.chunk.js",
-    "main.js.map": "/sari/static/js/main.2df20807.chunk.js.map",
+    "main.css": "/sari/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/sari/static/js/main.67dd5580.chunk.js",
+    "main.js.map": "/sari/static/js/main.67dd5580.chunk.js.map",
     "runtime-main.js": "/sari/static/js/runtime-main.e2f731da.js",
     "runtime-main.js.map": "/sari/static/js/runtime-main.e2f731da.js.map",
-    "static/js/2.b9a03681.chunk.js": "/sari/static/js/2.b9a03681.chunk.js",
-    "static/js/2.b9a03681.chunk.js.map": "/sari/static/js/2.b9a03681.chunk.js.map",
+    "static/js/2.2096a68b.chunk.js": "/sari/static/js/2.2096a68b.chunk.js",
+    "static/js/2.2096a68b.chunk.js.map": "/sari/static/js/2.2096a68b.chunk.js.map",
     "index.html": "/sari/index.html",
-    "precache-manifest.174d8cf1ebd4e66534bb8446867413bc.js": "/sari/precache-manifest.174d8cf1ebd4e66534bb8446867413bc.js",
+    "precache-manifest.c4910056af66789b6ae9da7e50206191.js": "/sari/precache-manifest.c4910056af66789b6ae9da7e50206191.js",
     "service-worker.js": "/sari/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/sari/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.b9a03681.chunk.js.LICENSE": "/sari/static/js/2.b9a03681.chunk.js.LICENSE"
+    "static/css/main.5ecd60fb.chunk.css.map": "/sari/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2096a68b.chunk.js.LICENSE": "/sari/static/js/2.2096a68b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e2f731da.js",
-    "static/js/2.b9a03681.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2df20807.chunk.js"
+    "static/js/2.2096a68b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.67dd5580.chunk.js"
   ]
 }
