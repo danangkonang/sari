@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sari/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sari/static/js/main.1c530c3c.chunk.js",
+    "main.js.map": "/sari/static/js/main.1c530c3c.chunk.js.map",
+    "runtime-main.js": "/sari/static/js/runtime-main.e2f731da.js",
+    "runtime-main.js.map": "/sari/static/js/runtime-main.e2f731da.js.map",
+    "static/js/2.49c3580c.chunk.js": "/sari/static/js/2.49c3580c.chunk.js",
+    "static/js/2.49c3580c.chunk.js.map": "/sari/static/js/2.49c3580c.chunk.js.map",
+    "index.html": "/sari/index.html",
+    "precache-manifest.9ff218a124f4f53efc6eb6dc4a4db357.js": "/sari/precache-manifest.9ff218a124f4f53efc6eb6dc4a4db357.js",
+    "service-worker.js": "/sari/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sari/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.49c3580c.chunk.js.LICENSE": "/sari/static/js/2.49c3580c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/sari/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f731da.js",
+    "static/js/2.49c3580c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1c530c3c.chunk.js"
+  ]
+}
